@@ -11,7 +11,7 @@ Project Sprint は、プロジェクトチームが小さな成果を確実に�
 | トピック | 関連記事 |
 | --- | --- |
 | [最終成果と中間成果](project_goals.md)　| 　|
-| [コンテキストとマイルストーン](tracks.md)　| 　|
+| [コンテクストとマイルストーン](tracks.md)　| 　|
 | [制約とイベント](restrictions.md)　| 　|
 | [認知負荷とモード](cognitive_load.md)　| 　|
 | [期待値とロール](rolls.md)　| 　|
